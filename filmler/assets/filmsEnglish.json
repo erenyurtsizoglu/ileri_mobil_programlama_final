@@ -1,0 +1,32 @@
+[
+  {
+    "film": "Lord Of The Rings",
+    "imageUrl": "assets/images/lotr.png",
+    "star": 4.9
+  },
+  {
+    "film": "Fight Club",
+    "imageUrl": "assets/images/fightclub.png",
+    "star": 4.7
+  },
+  {
+    "film": "Inception",
+    "imageUrl": "assets/images/inception.png",
+    "star": 4.2
+  },
+  {
+    "film": "Interstellar",
+    "imageUrl": "assets/images/interstellar.png",
+    "star": 4.8
+  },
+  {
+    "film": "I Origins",
+    "imageUrl": "assets/images/iorigins.png",
+    "star": 4.1
+  },
+  {
+    "film": "Black Swan",
+    "imageUrl": "assets/images/blackswan.png",
+    "star": 3.9
+  }
+]
